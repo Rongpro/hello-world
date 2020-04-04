@@ -2,5 +2,5 @@
 Just another repository
 Hi Rongpro!
 
-Hubot here,I like Node.js and Coffeescript(that's what I'm nade of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+Rongpro here,I like Ein and Coffeescript(that's what I'm nade of!).
+The food I ate in foshan was much better than the food I ate in zhanjiang.
