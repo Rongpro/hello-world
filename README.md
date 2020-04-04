@@ -2,5 +2,6 @@
 Just another repository
 Hi Rongpro!
 
-Hubot here,I like Node.js and Coffeescript(that's what I'm nade of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+Rongpro here,I like Basketball and lover(that's what I'm nade of!).
+It is not our abilities that show what we truly are, it 
+is our choices
